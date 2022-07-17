@@ -332,17 +332,80 @@ allowfullscreen></iframe>
 
 
 
-รายการฟ้าทะลายโจร วันจันทร์ที่ ๒๐ เดือนมิถุนายน พ.ศ.๒๕๖๕ 
+รายการฟ้าทะลายโจร วันอังคารที่ ๒๘ เดือนมิถุนายน พ.ศ.๒๕๖๕ 
+
+video source copy from (วิดิโอต้นฉบับ คัดลอกมาจาก) :
+https://www.youtube.com/watch?v=un_khX_p6IM
+
+<iframe 
+title="รายการฟ้าทะลายโจร วันอังคารที่ ๒๘ เดือนมิถุนายน พ.ศ.๒๕๖๕"
+width="560" height="315" 
+src="https://www.youtube.com/embed/Pu02g-VwrVg"  frameborder="0" 
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; 
+gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe 
+title="รายการฟ้าทะลายโจร วันอังคารที่ ๒๘ เดือนมิถุนายน พ.ศ.๒๕๖๕"
+width="640" height="360" scrolling="no" frameborder="0" style="border: none;" 
+src="https://www.bitchute.com/embed/GoO6oCkAyYG2/"></iframe>
 
 
 <iframe  
-title=""
+title="รายการฟ้าทะลายโจร วันอังคารที่ ๒๘ เดือนมิถุนายน พ.ศ.๒๕๖๕"
 width="560" height="315" 
-src="" 
+src="https://archive.org/download/kob-jun-2022/017_kob_28-jun-2022.mp4" 
 allowfullscreen></iframe>
 
+==================================================
 
 
+รายการฟ้าทะลายโจร วันพุธที่ ๒๙ เดือนมิถุนายน พ.ศ.๒๕๖๕ 
+
+video source copy from (วิดิโอต้นฉบับ คัดลอกมาจาก) :
+https://www.youtube.com/watch?v=LCJqDl3Ue0s
+
+
+<iframe 
+title="รายการฟ้าทะลายโจร วันพุธที่ ๒๙ เดือนมิถุนายน พ.ศ.๒๕๖๕"
+width="560" height="315" src="https://www.youtube.com/embed/kgYyRFdYIN8"  
+frameborder="0" allow="accelerometer; autoplay; clipboard-write; 
+encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe 
+title="รายการฟ้าทะลายโจร วันพุธที่ ๒๙ เดือนมิถุนายน พ.ศ.๒๕๖๕"
+width="640" height="360" scrolling="no" frameborder="0" style="border: none;" 
+src="https://www.bitchute.com/embed/eXSA6VQRtYXC/"></iframe>
+
+
+<iframe  
+title="รายการฟ้าทะลายโจร วันพุธที่ ๒๙ เดือนมิถุนายน พ.ศ.๒๕๖๕"
+width="560" height="315" 
+src="https://archive.org/download/kob-jun-2022/018_kob_29-jun-2022.mp4" 
+allowfullscreen></iframe>
+
+===================================================
+
+รายการฟ้าทะลายโจร วันพฤหัสบดีที่ ๓๐ เดือนมิถุนายน พ.ศ.๒๕๖๕ 
+
+https://www.youtube.com/watch?v=GZp8BLi-hk0
+
+<iframe 
+title="รายการฟ้าทะลายโจร วันพฤหัสบดีที่ ๓๐ เดือนมิถุนายน พ.ศ.๒๕๖๕"
+width="560" height="315" src="https://www.youtube.com/embed/hVUtb5eNLjY" 
+frameborder="0" allow="accelerometer; autoplay; clipboard-write; 
+encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe 
+title="รายการฟ้าทะลายโจร วันพฤหัสบดีที่ ๓๐ เดือนมิถุนายน พ.ศ.๒๕๖๕" 
+src="https://tubedu.org/videos/embed/c840ee92-ca17-4daf-9a27-4d6147fe13ac" 
+allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" 
+width="560" height="315" frameborder="0"></iframe>
+
+<iframe  
+title="รายการฟ้าทะลายโจร วันพฤหัสบดีที่ ๓๐ เดือนมิถุนายน พ.ศ.๒๕๖๕"
+width="560" height="315" 
+src="https://archive.org/download/kob-jun-2022/019_kob_30-jun-2022_720.mp4" 
+allowfullscreen></iframe>
 
 ===================== June 2022 END =========================================
 
