@@ -168,10 +168,6 @@ title="รายการฟ้าทะลายโจร วันศุกร
 frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; 
 gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe title="รายการฟ้าทะลายโจร วันศุกร์ที่ ๑๗ เดือนมิถุนายน พ.ศ.๒๕๖๕ " 
-src="https://tubedu.org/videos/embed/74cede1a-e23f-42b5-bcbc-c96138a9ae34" 
-allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" 
-width="560" height="315" frameborder="0"></iframe>
 
 
 
@@ -387,7 +383,6 @@ allowfullscreen></iframe>
 
 รายการฟ้าทะลายโจร วันพฤหัสบดีที่ ๓๐ เดือนมิถุนายน พ.ศ.๒๕๖๕ 
 
-https://www.youtube.com/watch?v=GZp8BLi-hk0
 
 <iframe 
 title="รายการฟ้าทะลายโจร วันพฤหัสบดีที่ ๓๐ เดือนมิถุนายน พ.ศ.๒๕๖๕"
@@ -395,11 +390,6 @@ width="560" height="315" src="https://www.youtube.com/embed/hVUtb5eNLjY"
 frameborder="0" allow="accelerometer; autoplay; clipboard-write; 
 encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe 
-title="รายการฟ้าทะลายโจร วันพฤหัสบดีที่ ๓๐ เดือนมิถุนายน พ.ศ.๒๕๖๕" 
-src="https://tubedu.org/videos/embed/c840ee92-ca17-4daf-9a27-4d6147fe13ac" 
-allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" 
-width="560" height="315" frameborder="0"></iframe>
 
 <iframe  
 title="รายการฟ้าทะลายโจร วันพฤหัสบดีที่ ๓๐ เดือนมิถุนายน พ.ศ.๒๕๖๕"
